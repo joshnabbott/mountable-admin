@@ -1,0 +1,8 @@
+= Authentication
+==== Drop in user management and authentication plugin for your Rails projects.
+
+Authentication is a plugin meant to be used in conjunction with the <tt>authlogic</tt> and <tt>desert</tt> gems.
+
+Coming soon.
+
+Copyright (c) 2009 Josh N. Abbott (http://iammrjoshua.com), released under the MIT license
